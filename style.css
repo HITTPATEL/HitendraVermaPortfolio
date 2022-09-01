@@ -418,9 +418,6 @@
   }
   
   /* project section styling */
-  #space{
-      margin-top:20px;
-   }
   .project .title::after {
     content: "See my work";
   }
